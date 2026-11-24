@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.chddaniel/conqueror-seo-brain",
+  "title": "Conqueror SEO + AI Citations Brain",
+  "description": "Free SEO and AI citation (AEO/GEO) playbooks, checklists, templates and weekly plans for agents.",
+  "version": "1.0.0",
+  "websiteUrl": "https://brain.conquerorapp.com",
+  "repository": { "url": "https://github.com/chddaniel/conqueror-seo-brain", "source": "github" },
+  "remotes": [ { "type": "streamable-http", "url": "https://brain.conquerorapp.com/mcp" } ]
+}
